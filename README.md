@@ -90,7 +90,7 @@ The following proposed controls were assessed:
 | File | Description |
 |---|---|
 | [GlobalTech Phishing Risk Assessment Report](./Hilda_C11-26-CGRCE-17247_GRC103_Wk3_GlobalTech_Phishing_Risk_Assessment_Report.pdf) | Full assessment report covering campaign findings, financial risk analysis and recommendations. |
-| [GlobalTech Phishing Risk Analysis Workbook](./Hilda_C11-26-CGRCE-17247_GRC103_Wk3_GlobalTech_Phishing_Risk_Analysis_Workbook.xlsx) | Supporting calculations, campaign metrics, assumptions, risk quantification and control ROI analysis. |
+| [Download GlobalTech Phishing Risk Analysis Workbook](./Hilda_C11-26-CGRCE-17247_GRC103_Wk3_GlobalTech_Phishing_Risk_Analysis_Workbook.xlsx) | Supporting calculations, campaign metrics, assumptions, risk quantification and control ROI analysis. |
 
 ## Methodology and Limitations
 
