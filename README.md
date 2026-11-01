@@ -87,8 +87,8 @@ The following proposed controls were assessed:
 
 | File | Description |
 |---|---|
-| `GlobalTech_Phishing_Risk_Assessment_Report.docx` | Full assessment report, findings, financial analysis and recommendations. |
-| `GlobalTech_Phishing_Risk_Analysis_Workbook.xlsx` | Supporting calculations, campaign metrics, assumptions, risk quantification and control ROI analysis. |
+| `[GlobalTech_Phishing_Risk_Assessment_Report.docx](https://github.com/heeldaah/Hilda_C11-26-CGRCE-17247_GRC103_Week3-Phishing-Simulation-Metrics-and-Quantitative-Risk-Analysis/blob/main/Hilda_C11-26-CGRCE-17247_GRC103_Wk3_GlobalTech_Phishing_Risk_Assessment_Report.pdf)` | Full assessment report, findings, financial analysis and recommendations. |
+| `[GlobalTech_Phishing_Risk_Analysis_Workbook.xlsx](https://github.com/heeldaah/Hilda_C11-26-CGRCE-17247_GRC103_Week3-Phishing-Simulation-Metrics-and-Quantitative-Risk-Analysis/blob/main/Hilda_C11-26-CGRCE-17247_GRC103_Wk3_GlobalTech_Phishing_Risk_Analysis_Workbook.xlsx)` | Supporting calculations, campaign metrics, assumptions, risk quantification and control ROI analysis. |
 
 ## Methodology and Limitations
 
